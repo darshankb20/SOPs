@@ -26,7 +26,7 @@ Follow these steps to install Grafana on your system and create a service for it
 
 4. Start Grafana:
    ```
-   ./bin/grafana-server
+   cd bin/
    ```
 
 5. Create a Grafana service unit file:
